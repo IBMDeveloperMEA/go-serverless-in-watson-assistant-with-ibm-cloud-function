@@ -34,7 +34,7 @@ Download the following assets:
 
 ### Step 1: Create an IBM Cloud Object Storage service
 
-1. Log in to your [IBM Cloud account](https://cloud.ibm.com/registration?cm_mmc=Inpersondirected-_-Audience+Developer_Developer+Conversation-_-WW_WW-_-Jan2021-khalil_faraj-go_serverless_in_watson_assistant_with_ibm_cloud_function-global-devadvgrp-dubai&cm_mmca1=000039JL&cm_mmca2=10010797&cm_sp=ibmdev-_-developer-tutorials-_-cloudreg).
+1. Log in to your [IBM Cloud account](https://ibm.biz/BdfMqU).
 1. Click **Create resource**, and search for Cloud Object Storage.
 
     ![Creating resource](images/figure1.png)
